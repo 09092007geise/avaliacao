@@ -51,4 +51,28 @@
     padding:1em;
     background-color: var(--branco);
 }
+@media screen and  (min-width: 840px) {
+    .cabecalho{
+        font-size: 30px;
+        font-family:  var(--fonte-secundaria);
+        color: chartreuse rgb(43, 226, 101);
+        display: block;
+    }
+     
+    .titulo{
+    font-size: 30px;
+    font-family:  var(--fonte-secundaria);
+    color: chartreuse rgb(43, 226, 101);
+    display: block;
+    }
+    .imagem{
+        font-size: 30px;
+        font-family:  var(--fonte-secundaria);
+        color: chartreuse rgb(43, 226, 101);
+        display: block;
 
+
+
+    }
+     
+}
